@@ -1,5 +1,14 @@
 # A versão segura do HTTP
 
+- [A versão segura do HTTP](#a-versão-segura-do-http)
+  - [Enviando dados com HTTP](#enviando-dados-com-http)
+  - [Funcionamento do HTTPS](#funcionamento-do-https)
+    - [Por que HTTPS é seguro?](#por-que-https-é-seguro)
+  - [Método de criptografia utilizado no HTTPS](#método-de-criptografia-utilizado-no-https)
+    - [Criptografia assimétrica](#criptografia-assimétrica)
+    - [Criptografia simétrica](#criptografia-simétrica)
+    - [Como as criptografias se relacionam](#como-as-criptografias-se-relacionam)
+
 ## Enviando dados com HTTP
 
 É o protocolo HTTP com uma camada de seguraça. Pois o HTTP sozinho, trafega texto puro para o servidor que pode ser visto por qualquer um. com o HTTPS há a camada SSL/TLS implementado.
